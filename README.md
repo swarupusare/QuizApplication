@@ -1,35 +1,35 @@
 3️⃣ Frontend (React + TypeScript)
 
-Prerequisites:
+#Prerequisites:
 
-Install Node.js
+1)Install Node.js
 
-Check installation:
+2)Check installation:
 
-node -v
-npm -v
+  node -v
+  npm -v
 
 
-Steps:
+#Steps:
 
 Navigate to frontend folder:
 
-cd quizapp
+ 1) cd quizapp
 
 
-Install dependencies:
+ 2) Install dependencies:
 
-npm install
-
-
-Install UI packages (if not installed):
-
-npm install reactstrap bootstrap bootstrap-icons
+    npm install
 
 
-Start frontend:
+  3)Install UI packages (if not installed):
 
-npm run dev
+      npm install reactstrap bootstrap bootstrap-icons
+
+
+4)Start frontend:
+
+   npm run dev
 
 
 Open browser at http://localhost:5173 (or port shown in terminal).
